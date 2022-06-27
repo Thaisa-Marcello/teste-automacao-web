@@ -1,3 +1,11 @@
+## Automação Web
+
+Linguagem e Frameworks utilizados:
+
+Java 8, Cucumber, Selenium Webdriver, JUnit, Maven
+
+Para rodar o teste, basta abrir a classe RunCucumberTeste e executar o método public class RunCucumberTest
+
 ## Objetivo
 
 Analise algum fluxo do sistema que você considere importante, escreva o caso de teste e o automatize.
